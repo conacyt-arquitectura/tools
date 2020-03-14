@@ -93,5 +93,6 @@ exports.vulcanize = () => {
 exports.webserver = () => {
   return {
     livereload: false,
+    port: 8080
   };
 };
