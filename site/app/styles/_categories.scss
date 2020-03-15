@@ -44,6 +44,8 @@ $color-tensorflow-orange: #ed8e24;
 $color-unity-grey: #222c37;
 $color-weave-green: #0f9d58;
 $color-git-brown: #da493c;
+$color-java-orange: #ed8e24;
+
 
 /* Mixins */
 
@@ -206,3 +208,6 @@ $color-weave-green, 'weave.svg');
 
 @include codelab-card(['git'],
   $color-git-brown, 'git.svg');
+
+@include codelab-card(['java'],
+  $color-java-orange, 'java.svg');
