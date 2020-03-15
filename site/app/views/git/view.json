@@ -1,0 +1,10 @@
+{
+  "title": "Curso de Git",
+  "description": "Conoce los conceptos básicos de Git y como los equipos de trabajo lo utiliza en el interior del CONACyT, para el desarrollo de sistemas de sofware",
+  "logoUrl": "/git/git-logo.png",
+  "tags": ["git"],
+  "exclude": [
+    ".*-about$",
+    "^lang-.*"
+  ]
+}
