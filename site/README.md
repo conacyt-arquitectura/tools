@@ -383,3 +383,15 @@ If gulp startup times are really slow, try removing `node_modules/` or running
 ```text
 $ npm dedupe
 ```
+
+## How to dokerized
+
+```bash
+npm run docker-build
+```
+
+## Run into a servert
+
+```bash
+npm start
+```
