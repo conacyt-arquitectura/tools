@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-03-16T14:42:41-06:00",
+  "id": "api-guidelines",
+  "duration": 1,
+  "title": "Lineamietos para servicios RestFull",
+  "authors": "Daniel",
+  "summary": "Lineamientos RESTFULL",
+  "source": "api-guidelines.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "api"
+  ],
+  "tags": [
+    "lineamientos",
+    "rest"
+  ],
+  "feedback": "https://www.conacyt.gob.mx/",
+  "url": "api-guidelines"
+}

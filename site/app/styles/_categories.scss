@@ -214,3 +214,6 @@ $color-weave-green, 'weave.svg');
 
 @include codelab-card(['docker'],
   $color-google-blue, 'docker.svg');
+
+@include codelab-card(['api'],
+  $color-google-blue, 'api.svg');
