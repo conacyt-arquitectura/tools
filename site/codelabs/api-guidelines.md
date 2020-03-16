@@ -10,13 +10,13 @@ Feedback Link: https://www.conacyt.gob.mx/
 
 ## Versionamiento del API
 
+ 
 Positive
 : Se deberá de versionar el **API** y no se deberá de liberar ninguna **API** sin versión. Para la versión de un API Restful existen dos alternativa; versión en la url y versión en el header del protocolo HTTP. Cualquiera de los casos se deberá de justificar el enfoque adquirido.
 
 ## Uso del método GET
 
 Utillizar los métodos `PUT`, `POST` y `DELETE` en lugar del método `GET` para alterar el estado de un recurso.
-
 
 #### Uso adecuado:
 ```
