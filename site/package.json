@@ -4,7 +4,7 @@
   "scripts": {
     "start": "gulp serve --codelabs-dir=codelabs",
     "start-prod": "gulp serve:dist --codelabs-dir=codelabs",
-    "docker-build": "docker build -t conacyt/codelab:$npm_package_version ."
+    "docker-build": "docker build -t conacyt/codelab-server:$npm_package_version ."
   },
   "devDependencies": {
     "autoprefixer": "^9.3.1",
